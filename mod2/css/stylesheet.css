@@ -25,6 +25,9 @@ section{
   background-color: #aec6cf;
   float: left;
 }
+h1{
+  text-align:center;
+}
 
 h3{
   text-align: right;
