@@ -1,3 +1,4 @@
+
 body{
   font-size: 100%;
   background-color: #add8e6;
@@ -7,7 +8,12 @@ sections{
   border: 3px solid black; 
 }
 
-h1{
-   background-color: red;
-  border:2px solid black;
+sections > h1{
+  border: 2px solid black;
+  
+}
+
+
+#section1{
+  background-color: red;
 }
