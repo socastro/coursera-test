@@ -13,8 +13,9 @@ section{
   width:100px;
 }
 
-section > h1{
-  border: 2px solid black;
+h3{
+  width:30px;
+  background-color: #aec6cf;
 }
 
 #section2{
