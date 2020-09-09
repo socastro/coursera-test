@@ -9,8 +9,29 @@ html {
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
+*{
+    box-sizing: border-box;
+}
 body {
   margin: 0;
+}
+
+section{
+  border: 2px solid black;
+  position: relative;
+  padding: 10px ;
+  margin:5px;
+  background-color: #aec6cf;
+  float: left;
+}
+h3{
+  text-align: center;
+}
+.container{
+  background-color: grey;
+}
+span{
+  text-align: center;
 }
 article,
 aside,
@@ -23,7 +44,6 @@ hgroup,
 main,
 menu,
 nav,
-section,
 summary {
   display: block;
 }
